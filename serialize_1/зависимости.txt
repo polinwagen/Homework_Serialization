@@ -1,0 +1,39 @@
+  Bundle(List<Path> path,List<String> values ){
+        this.path = path;
+        this.values = values;
+    }
+
+ JsonFileClass(String version,List<JsonParameters> parameters ){
+        this.version = version;
+        this.parameters = parameters;
+    }
+
+
+JsonParameters(String name , String description , boolean isList, List<String> roles, String type, List<Bundle> bundle){
+        this. name= name;
+        this.description = description;
+        this.isList = isList;
+        this.roles = roles;
+        this.type = type;
+        this.bundle = bundle;
+    }
+
+Path(String code, String value){
+        this.value = value;
+    }
+
+
+Role(String role){ Õ≈ »—œŒÀ‹«”≈“—ﬂ
+        this.role=role;
+    }
+
+Types(String string) { Õ≈ »—œŒÀ‹«”≈“—ﬂ
+        this.code = code;
+        this.value = string;
+    }
+
+
+Value(String value){ Õ≈ »—œŒÀ‹«”≈“—ﬂ
+        this.code = code;
+        this.value = value;
+    }

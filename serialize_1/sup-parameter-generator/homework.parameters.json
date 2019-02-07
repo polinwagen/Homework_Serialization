@@ -1,0 +1,133 @@
+{
+  "version" : "1.2",
+  "parameters" : [ {
+    "name" : "name 2",
+    "description" : "description 2",
+    "isList" : true,
+    "roles" : [ "value 2", "value 2", "value 2" ],
+    "type" : "type",
+    "bundle" : [ {
+      "path" : [ {
+        "code" : "2",
+        "value" : "value 2"
+      }, {
+        "code" : "2",
+        "value" : "value 2"
+      }, {
+        "code" : "2",
+        "value" : "value 2"
+      } ],
+      "values" : [ "value 2", "value 2", "value 2" ]
+    }, {
+      "path" : [ {
+        "code" : "2",
+        "value" : "value 2"
+      }, {
+        "code" : "2",
+        "value" : "value 2"
+      }, {
+        "code" : "2",
+        "value" : "value 2"
+      } ],
+      "values" : [ "value 2", "value 2", "value 2" ]
+    }, {
+      "path" : [ {
+        "code" : "2",
+        "value" : "value 2"
+      }, {
+        "code" : "2",
+        "value" : "value 2"
+      }, {
+        "code" : "2",
+        "value" : "value 2"
+      } ],
+      "values" : [ "value 2", "value 2", "value 2" ]
+    } ]
+  }, {
+    "name" : "name 2",
+    "description" : "description 2",
+    "isList" : true,
+    "roles" : [ "value 2", "value 2", "value 2" ],
+    "type" : "type",
+    "bundle" : [ {
+      "path" : [ {
+        "code" : "2",
+        "value" : "value 2"
+      }, {
+        "code" : "2",
+        "value" : "value 2"
+      }, {
+        "code" : "2",
+        "value" : "value 2"
+      } ],
+      "values" : [ "value 2", "value 2", "value 2" ]
+    }, {
+      "path" : [ {
+        "code" : "2",
+        "value" : "value 2"
+      }, {
+        "code" : "2",
+        "value" : "value 2"
+      }, {
+        "code" : "2",
+        "value" : "value 2"
+      } ],
+      "values" : [ "value 2", "value 2", "value 2" ]
+    }, {
+      "path" : [ {
+        "code" : "2",
+        "value" : "value 2"
+      }, {
+        "code" : "2",
+        "value" : "value 2"
+      }, {
+        "code" : "2",
+        "value" : "value 2"
+      } ],
+      "values" : [ "value 2", "value 2", "value 2" ]
+    } ]
+  }, {
+    "name" : "name 2",
+    "description" : "description 2",
+    "isList" : true,
+    "roles" : [ "value 2", "value 2", "value 2" ],
+    "type" : "type",
+    "bundle" : [ {
+      "path" : [ {
+        "code" : "2",
+        "value" : "value 2"
+      }, {
+        "code" : "2",
+        "value" : "value 2"
+      }, {
+        "code" : "2",
+        "value" : "value 2"
+      } ],
+      "values" : [ "value 2", "value 2", "value 2" ]
+    }, {
+      "path" : [ {
+        "code" : "2",
+        "value" : "value 2"
+      }, {
+        "code" : "2",
+        "value" : "value 2"
+      }, {
+        "code" : "2",
+        "value" : "value 2"
+      } ],
+      "values" : [ "value 2", "value 2", "value 2" ]
+    }, {
+      "path" : [ {
+        "code" : "2",
+        "value" : "value 2"
+      }, {
+        "code" : "2",
+        "value" : "value 2"
+      }, {
+        "code" : "2",
+        "value" : "value 2"
+      } ],
+      "values" : [ "value 2", "value 2", "value 2" ]
+    } ]
+  } ]
+}
